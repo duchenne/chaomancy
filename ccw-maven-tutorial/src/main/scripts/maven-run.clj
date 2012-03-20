@@ -1,3 +1,0 @@
-(use '(chaomancy maven))
-
-(-main)
